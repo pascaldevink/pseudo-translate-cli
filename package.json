@@ -1,14 +1,19 @@
 {
   "name": "pseudo-translate-cli",
   "version": "1.0.0",
-  "description": "",
+  "description": "CLI to translate a JSON file to a pseudo language with expanded characters",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": ".bin/pseudo-translate-cli",
-  "author": "",
+  "author": "Pascal de Vink",
   "license": "ISC",
+  "homepage": "https://github.com/pascaldevink/pseudo-translate-cli",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pascaldevink/pseudo-translate-cli"
+  },
   "dependencies": {
     "commander": "^10.0.0",
     "pseudo-translate": "^1.0.0"
