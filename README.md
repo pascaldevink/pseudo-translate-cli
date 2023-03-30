@@ -1,7 +1,9 @@
 # pseudo-translate-cli
 
 CLI to translate a JSON file to a pseudo language with expanded characters.
-Makes use of [https://github.com/rorsini/pseudo-translate](rorsini's pseudo-translate) package to take a JSON file and output the same contents in a pseudo language, 
+Makes use of [rorsini's
+pseudo-translate](https://github.com/rorsini/pseudo-translate) package to take a JSON file and output the same contents in a 
+pseudo language, 
 optionally expanded by 30%.
 
 ## How to install
